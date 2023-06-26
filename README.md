@@ -6,6 +6,6 @@
 * Coming soon....
 
 ### Screenshosts 
-![DDT WITH JUNIT](https://github.com/ThaiDuy29042002/math-util-mvn/commit/81605d781f517a864fcaed8a77bd177eb9f0e5ba)   
+![DDT WITH JUNIT](https://github.com/ThaiDuy29042002/math-util-mvn/blob/main/screenshost/DDT%20TEST%20script.png?raw=true)   
 
 #### Copyright &#169; 2023 ThaiDuy29042002
